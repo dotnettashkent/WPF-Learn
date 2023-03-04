@@ -24,5 +24,10 @@ namespace WPFBasic
         {
             InitializeComponent();
         }
+
+        private void Button_Click()
+        {
+
+        }
     }
 }
